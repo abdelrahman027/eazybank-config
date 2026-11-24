@@ -1,0 +1,8 @@
+accounts:
+  version: 12.0.0
+  app-details:
+    description: "git Accounts Service"
+    owner: "git Your Company Name"
+    contact:
+      name: "git Support Team"
+      email: "git ab@example.com"
